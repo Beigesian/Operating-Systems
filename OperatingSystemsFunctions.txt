@@ -1,0 +1,1 @@
+One function of an operating system is process management. It is a core concept and major function of all operating systems. An operating system assigns the processor to processes and deallocates the processor when it is no longer needed for such tasks.
